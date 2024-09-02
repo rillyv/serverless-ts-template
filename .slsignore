@@ -1,0 +1,14 @@
+.serverless/*
+bruno
+src
+tests
+.env
+.env.example
+.gitignore
+.prettierrc
+Makefile
+package.json
+package-lock.json
+serverless.yml
+serverless.yml.tpl
+tsconfig.json

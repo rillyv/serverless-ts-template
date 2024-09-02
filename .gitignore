@@ -1,0 +1,7 @@
+node_modules
+.serverless
+.idea
+dist/*
+.env
+.editorconfig
+serverless.yml
