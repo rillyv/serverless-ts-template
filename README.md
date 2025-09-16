@@ -1,4 +1,4 @@
-# lambda-ts-starter
+# serverless-ts-template
 
 A minimal **AWS Lambda + TypeScript + Serverless Framework** starter kit.  
 This project provides a working baseline for building serverless APIs with:
